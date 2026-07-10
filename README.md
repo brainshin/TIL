@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2026-07-10-n8n-기반-TIL-자동화-워크플로우-구축](n8n/2026-07-10-n8n-기반-TIL-자동화-워크플로우-구축.md)
+
 - [2026-07-10-n8n-디스코드-연동-TIL-자동화-구축](n8n/2026-07-10-n8n-디스코드-연동-TIL-자동화-구축.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
