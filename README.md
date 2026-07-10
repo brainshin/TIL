@@ -24,6 +24,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-07-10-파이썬-리스트-컴프리헨션과-filter-성능-가독성-비교](python/2026-07-10-파이썬-리스트-컴프리헨션과-filter-성능-가독성-비교.md)
+
 - [2026-07-10-Git-기초-워크플로우-정리](python/2026-07-10-Git-기초-워크플로우-정리.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
