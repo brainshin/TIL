@@ -40,6 +40,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-07-11-성남시-내일-날씨-전망](ai-agent/2026-07-11-성남시-내일-날씨-전망.md)
+
 - [2026-07-11-오픈클로-AI-에이전트-분석](ai-agent/2026-07-11-오픈클로-AI-에이전트-분석.md)
 
 - [2026-07-10-n8n-MCP-AI-에이전트-연동-전략](ai-agent/2026-07-10-n8n-MCP-AI-에이전트-연동-전략.md)
