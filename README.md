@@ -60,6 +60,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2023-10-03-sha-충돌-검증](ai-agent/2023-10-03-sha-충돌-검증.md)
+
 - [2026-07-16-Latest-LLM](ai-agent/2026-07-16-Latest-LLM.md)
 
 - [2026-07-16-nlp-RAG-최신동향](ai-agent/2026-07-16-nlp-RAG-최신동향.md)
