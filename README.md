@@ -14,6 +14,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
 
+- [2023-10-01-n8n-워크플로우-디버깅](n8n/2023-10-01-n8n-워크플로우-디버깅.md)
+
 - [2026-07-11-n8n-serpapi-node-load-test](n8n/2026-07-11-n8n-serpapi-node-load-test.md)
 
 - [2023-10-04-n8n-워크플로우-디버깅](n8n/2023-10-04-n8n-워크플로우-디버깅.md)
