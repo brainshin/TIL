@@ -48,6 +48,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-07-16-최신-LLM](ai-agent/2026-07-16-최신-LLM.md)
+
 - [2026-07-11-성남시-내일-날씨-정보](ai-agent/2026-07-11-성남시-내일-날씨-정보.md)
 
 - [2026-07-11-내일의-생산적인-계획-수립-전략](ai-agent/2026-07-11-내일의-생산적인-계획-수립-전략.md)
