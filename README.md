@@ -54,6 +54,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-07-16-최신-LLM-모델](ai-agent/2026-07-16-최신-LLM-모델.md)
+
 - [2023-10-04-최신-LLM](ai-agent/2023-10-04-최신-LLM.md)
 
 - [2026-07-16-최신-LLM](ai-agent/2026-07-16-최신-LLM.md)
