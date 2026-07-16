@@ -46,6 +46,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
+- [2026-07-11-sha-충돌-검증용](python/2026-07-11-sha-충돌-검증용.md)
+
 - [2026-07-11-Python-API-속도-제한-처리-전략](python/2026-07-11-Python-API-속도-제한-처리-전략.md)
 
 - [2025-05-14-개발자를-위한-감정-트래킹-루틴](python/2025-05-14-개발자를-위한-감정-트래킹-루틴.md)
